@@ -1,3 +1,3 @@
 # Binary-Search-Tree-Implementation
 
-In this program we will be implementing a binary search tree class
+In this program a binary search tree is implemented 
