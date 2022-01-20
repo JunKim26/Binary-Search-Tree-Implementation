@@ -1,5 +1,5 @@
 # Author: Jun Kim
-# Description: In this program we will be implementing a Binary Search Tree class
+# Description: In this program, a Binary Search Tree is implemented
 
 
 class Stack:
